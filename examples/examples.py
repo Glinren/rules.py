@@ -23,6 +23,7 @@ def fizzbuzz1(end):
                 R(  divisible_by(5), value("Buzz")),
                 R(  always , str)
             )(i)
+
         
 def fizzbuzz2(end):
     for i in range(1,end+1):
