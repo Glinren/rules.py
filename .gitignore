@@ -104,3 +104,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#emacs
+*#
+.#*
+*~
+
+
+#vi
+.swp
